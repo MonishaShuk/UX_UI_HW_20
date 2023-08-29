@@ -16,6 +16,9 @@
    background-color:  rgba(77, 177, 183, 0.2);
 }
 
+.card{
+    border:none ;
+}
 .card-BG{
     background-color: #ffffff;
 }
@@ -30,6 +33,11 @@
     width: 90%;
     margin:auto;
 }
+
+ .toppad{
+    margin-top:3%;
+}
+
 
 .main-headings{
     width: 90%;
